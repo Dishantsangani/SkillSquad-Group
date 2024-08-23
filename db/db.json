@@ -1,0 +1,110 @@
+{
+  "students": [
+    {
+      "id": "1001",
+      "Name": "Dishant",
+      "Surname": "Sangani",
+      "Dob": "2003-08-16",
+      "Standard": 7,
+      "RollNo": 27,
+      "GRNo": "270027",
+      "Subject": [
+        "English",
+        "Science"
+      ]
+    },
+    {
+      "id": "1002",
+      "Name": "Dev ",
+      "Surname": "Patel",
+      "Dob": "2003-08-16",
+      "Standard": 1,
+      "RollNo": 29,
+      "GRNo": "290029",
+      "Subject": [
+        "Hindi",
+        "Science"
+      ]
+    },
+    {
+      "id": "1003",
+      "Name": "Name",
+      "Surname": "Patel",
+      "Dob": "2004-08-15",
+      "Standard": 7,
+      "RollNo": 57,
+      "GRNo": "570057",
+      "Subject": [
+        "English"
+      ]
+    },
+    {
+      "id": "1004",
+      "Name": "Devid",
+      "Surname": "Roy",
+      "Dob": "2003-08-15",
+      "Standard": 1,
+      "RollNo": 16,
+      "GRNo": "160016",
+      "Subject": [
+        "English"
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "id": "cf45772a-3ccb-4795-ba22-f37ade0b693e",
+      "StudentId": "1001",
+      "Name": "Dishant",
+      "RollNo": 27,
+      "Subject": "English",
+      "Standard": "7",
+      "Marks": 98
+    },
+    {
+      "id": "600320dc-c613-4b37-a4b2-9be1b4dbf5da",
+      "StudentId": "1001",
+      "Name": "Dishant",
+      "RollNo": 27,
+      "Subject": "Science",
+      "Standard": "7",
+      "Marks": 99
+    },
+    {
+      "id": "1875b9b9-3bc3-42e7-8ff6-a6cf5b751f8a",
+      "StudentId": "1002",
+      "Name": "Dev ",
+      "RollNo": 29,
+      "Subject": "Hindi",
+      "Standard": "1",
+      "Marks": 98
+    },
+    {
+      "id": "c3813bf2-a3ab-41a7-b0ee-72b62f0dcd6d",
+      "StudentId": "1002",
+      "Name": "Dev ",
+      "RollNo": 29,
+      "Subject": "Science",
+      "Standard": "1",
+      "Marks": 99
+    },
+    {
+      "id": "8e61de1d-cfa8-4c20-8bb6-370c2429cb1c",
+      "StudentId": "1003",
+      "Name": "Name",
+      "RollNo": 57,
+      "Subject": "English",
+      "Standard": "7",
+      "Marks": 58
+    },
+    {
+      "id": "69342859-6584-4713-b655-df98551c9fb7",
+      "StudentId": "1004",
+      "Name": "Devid",
+      "RollNo": 16,
+      "Subject": "English",
+      "Standard": "1",
+      "Marks": 15
+    }
+  ]
+}
